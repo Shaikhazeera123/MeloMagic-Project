@@ -1,0 +1,2 @@
+# MeloMagic-Project
+Music Applications
